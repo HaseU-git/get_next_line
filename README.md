@@ -25,7 +25,7 @@ get_next_line関数を使用したmainファイルを作成し、printfを用い
 git clone https://github.com/HaseU-git/get_next_line
 cd get_next_line
 
-echo '#include "get_next_line.h"
+echo '#include "get_next_line_bonus.h"
 # include <unistd.h>
 # include <stdlib.h>
 # include <stdio.h>
