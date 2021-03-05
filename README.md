@@ -23,7 +23,7 @@ get_next_line関数を使用したmainファイルを作成し、printfを用い
 
 ```shell
 git clone https://github.com/HaseU-git/get_next_line
-cd get_next_line
+cd get_next_line/project
 
 echo '#include "get_next_line_bonus.h"
 # include <unistd.h>
